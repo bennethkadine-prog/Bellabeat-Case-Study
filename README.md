@@ -121,6 +121,9 @@ Loggers were grouped by nights recorded. Average daily steps were compared over 
 Users in the High sleep-logging group had a higher median daily step count than users in the Low and Mid groups. The Low group also showed a wider spread in step counts. This describes an association in the Fitbit proxy data; it does not show that logging sleep caused users to walk more.
 
 The Mid group includes only four users, so it is reported but not interpreted.
+### Analysis notebook
+
+Explore the full analysis in the [Bellabeat analysis notebook](notebooks/bellabeat_analysis.ipynb).
 
 ## 5. Recommendations
 
