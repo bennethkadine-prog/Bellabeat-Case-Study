@@ -79,3 +79,5 @@ Treat wear habit as the core engagement problem. No user reached 80% of days. On
 Time nudges to real behavior. Evening (6-7 pm) and midday (12-2 pm) are when users already move; the 3 pm dip is a natural window for a prompt. Use a later, single-peak schedule on weekends.
 Segment sleep-feature messaging. Light sleep-loggers and non-loggers (11 users never logged) are a distinct audience from near-daily loggers. Test prompts aimed at converting the light group into a routine.
 Use engagement as the segmentation variable. Heavy loggers are both more active and more consistent, which makes engagement a practical way to tailor messaging.
+6. Tools
+   python (pandas, matplotlib)
