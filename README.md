@@ -123,7 +123,7 @@ Users in the High sleep-logging group had a higher median daily step count than 
 The Mid group includes only four users, so it is reported but not interpreted.
 ### Analysis notebook
 
-Explore the full analysis in the [analysis notebook](notebooks/Bellabeat_Analysis.ipynb).
+Explore the full analysis in the [analysis notebook](notebooks/Bellabeat_Notebook.ipynb).
 
 ## 5. Recommendations
 
