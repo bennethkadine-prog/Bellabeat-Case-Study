@@ -1,12 +1,15 @@
 # Bellabeat Case Study: What Fitness-Tracker Habits Say About Engagement
 
-*A consumer-insights analysis of 35 smart-device users, built with Python, pandas, and Matplotlib.*
+*A consumer-insights analysis of 35 smart-device users, built with Python, pandas, Matplotlib, and Power BI.*
+
+📊 [Dashboard (PDF)](Dashboard/Bellabeat_Dashboard.pdf) · 📓 [Analysis notebook](notebooks/Bellabeat_Notebook.ipynb)
 
 ## Overview
 
 This case study uses Fitbit activity and sleep data as a proxy to explore questions relevant to Bellabeat membership behavior. It examines recording coverage, weekday and weekend activity, peak activity hours, and the relationship between sleep and activity.
 
 Fitbit users are not Bellabeat members, so these findings may not represent Bellabeat customers.
+
 
 ## Key takeaways
 
@@ -125,6 +128,12 @@ The Mid group includes only four users, so it is reported but not interpreted.
 
 Explore the full analysis in the [analysis notebook](notebooks/Bellabeat_Notebook.ipynb).
 
+### Power BI dashboard
+
+I rebuilt the key findings as a Power BI dashboard so the engagement story can be read at a glance: engagement groups, how the day is spent, hourly activity on weekdays vs. weekends.
+
+[📄 Open the full dashboard (PDF)](Dashboard/Bellabeat_Dashboard.pdf)
+
 ## 5. Recommendations
 
 1. **Treat the wear habit as a core engagement challenge.** No user reached 80% of days. Onboarding and reminders that support a daily wearing routine may matter more than adding features.
@@ -139,3 +148,5 @@ These recommendations are hypotheses based on a small Fitbit sample, not confirm
 - Python
 - pandas
 - Matplotlib
+- Power BI (dashboard and visualization)
+- DAX (measures and calculated columns)
