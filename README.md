@@ -2,7 +2,7 @@
 
 *A consumer-insights analysis of 35 smart-device users, built with Python, pandas, Matplotlib, and Power BI.*
 
-📊 [Dashboard (PDF)](Dashboard/Bellabeat_Dashboard.pdf) · 📓 [Analysis notebook](notebooks/Bellabeat_Notebook.ipynb)
+📊 [Dashboard](Dashboard/Bellabeat_Dashboard.png) · 📓 [Analysis notebook](notebooks/Bellabeat_Notebook.ipynb)
 
 ## Overview
 
@@ -132,7 +132,7 @@ Explore the full analysis in the [analysis notebook](notebooks/Bellabeat_Noteboo
 
 I rebuilt the key findings as a Power BI dashboard so the engagement story can be read at a glance: engagement groups, how the day is spent, hourly activity on weekdays vs. weekends.
 
-[📄 Open the full dashboard (PDF)](Dashboard/Bellabeat_Dashboard.pdf)
+[📄 Open the full dashboard ](Dashboard/Bellabeat_Dashboard.png)
 
 ## 5. Recommendations
 
